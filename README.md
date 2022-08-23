@@ -10,6 +10,8 @@ https://nitrologic.bandcamp.com/
 
 https://soundcloud.com/nitrologic
 
+https://www.deviantart.com/nitrologic
+
 Current efforts focused on project roa, a webgl topographic mapping of my motu.
 
 Simon
