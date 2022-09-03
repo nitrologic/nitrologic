@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I use the nitrologic name on various public platforms.
+Welcome to my code repository.
+
+Current efforts focused on project roa, a webgl topographic mapping of my motu.
+
+Simon
+
+## About Me
 
 https://www.linkedin.com/in/nitrologic/
 
@@ -12,8 +18,5 @@ https://soundcloud.com/nitrologic
 
 https://www.deviantart.com/nitrologic
 
-Current efforts focused on project roa, a webgl topographic mapping of my motu.
-
-Simon
 
 Music is music -- Miles Davis
