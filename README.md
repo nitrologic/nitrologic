@@ -1,8 +1,8 @@
-### Hi there 👋
+### Yo!
 
 Welcome to my code repository.
 
-Current efforts focused on project roa, a webgl topographic mapping of my motu.
+Current efforts are focused on project roa, a webgl topographic mapping of my motu.
 
 Simon
 
