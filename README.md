@@ -1,14 +1,10 @@
-### Yo!
+### Welcome
 
-Welcome to my code repository.
+Current effort is [Simon's topographic tile service Project Roa](https://github.com/nitrologic/roagrid)
 
-Current efforts are focused on project roa, a webgl topographic mapping of my motu.
-
-Simon
+I dream of big dollar documentation.
 
 ## About Me
-
-https://www.linkedin.com/in/nitrologic/
 
 https://nitrologic.itch.io/
 
@@ -17,6 +13,8 @@ https://nitrologic.bandcamp.com/
 https://soundcloud.com/nitrologic
 
 https://www.deviantart.com/nitrologic
+
+https://www.linkedin.com/in/nitrologic/
 
 
 Music is music -- Miles Davis
