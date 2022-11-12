@@ -8,12 +8,6 @@ I dream of big dollar documentation.
 
 https://nitrologic.itch.io/
 
-https://nitrologic.bandcamp.com/
-
-https://soundcloud.com/nitrologic
-
-https://www.deviantart.com/nitrologic
-
 https://www.linkedin.com/in/nitrologic/
 
 
