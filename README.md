@@ -1,6 +1,6 @@
 ## Welcome
 
-Current effort is [Simon's topographic tile service Project Roa](https://github.com/nitrologic/roagrid)
+Current effort is a headless virtual 16 bit game system for [skid30](https://github.com/nitrologic/skid30)
 
 I dream of big dollar documentation.
 
