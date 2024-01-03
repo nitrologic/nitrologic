@@ -12,7 +12,7 @@
 
 * A new developer role with DJ legend Serato
 
-* A native GL SL3 sandbox [plainview](https://github.com/nitrologic/plainview)
+* A native OpenGL SDL3 sandbox [plainview](https://github.com/nitrologic/plainview)
 
 ### Thoughts
 
