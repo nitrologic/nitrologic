@@ -2,11 +2,11 @@
 
 ### Current efforts
 
-* A native OpenGL SDL3 sandbox [plainview](https://github.com/nitrologic/plainview)
-
-* A new developer role with DJ legend Serato
+* A diagnostics stack for platform developers
 
 ### Recent achievements
+
+* A native OpenGL SDL3 sandbox [plainview](https://github.com/nitrologic/plainview)
 
 * A headless virtual 16 bit game system for [skid30](https://github.com/nitrologic/skid30)
 
