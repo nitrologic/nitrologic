@@ -2,6 +2,8 @@
 
 ### Current efforts
 
+* An archive of various Blitz user media [bbarchives](https://github.com/nitrologic/bbarchives)
+
 * A diagnostics stack for platform developers
 
 ### Recent achievements
