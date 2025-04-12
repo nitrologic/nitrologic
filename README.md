@@ -2,6 +2,8 @@
 
 ### Current efforts
 
+* A Synth Vicious web worker [vsynth](https://github.com/nitrologic/vsynth)
+* 
 * A command line sharing and chat client [roha](https://github.com/nitrologic/roha)
 
 * A diagnostics stack for platform developers
