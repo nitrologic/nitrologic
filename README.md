@@ -2,11 +2,9 @@
 
 ### Current efforts
 
-* A Synth Vicious web worker [vsynth](https://github.com/nitrologic/vsynth)
+* nitrologic foundry a research tool for manipulating models [foundry](https://github.com/nitrologic/foundry) 
 
-* A command line sharing and chat client [foundry](https://github.com/nitrologic/foundry)
-
-* A diagnostics stack for platform developers
+* Synth Vicious web worker [vsynth](https://github.com/nitrologic/vsynth)
 
 ### Recent achievements
 
