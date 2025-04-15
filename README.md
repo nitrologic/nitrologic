@@ -4,7 +4,7 @@
 
 * A Synth Vicious web worker [vsynth](https://github.com/nitrologic/vsynth)
 
-* A command line sharing and chat client [roha](https://github.com/nitrologic/roha)
+* A command line sharing and chat client [foundry](https://github.com/nitrologic/foundry)
 
 * A diagnostics stack for platform developers
 
