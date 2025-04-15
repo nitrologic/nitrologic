@@ -1,12 +1,10 @@
 ## Welcome to nitrologic
 
-### Current efforts
+### Recent achievements
 
 * nitrologic foundry a research tool for manipulating models [foundry](https://github.com/nitrologic/foundry) 
 
 * Synth Vicious web worker [vsynth](https://github.com/nitrologic/vsynth)
-
-### Recent achievements
 
 * A headless virtual Amiga - ACID500 with skidkick vrom [skid30](https://github.com/nitrologic/skid30)
 
