@@ -1,6 +1,6 @@
 ## Welcome to nitrologic
 
-### Recent achievements
+### Recent endeavours
 
 * nitrologic roha foundry forge a research tool for manipulating models [forge](https://github.com/nitrologic/forge) 
 
