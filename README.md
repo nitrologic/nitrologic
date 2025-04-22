@@ -4,7 +4,7 @@
 
 * nitrologic roha foundry forge a research tool for manipulating models [forge](https://github.com/nitrologic/forge) 
 
-* Synth Vicious web worker [vsynth](https://github.com/nitrologic/vsynth)
+* Synth Vicious audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
 * A headless virtual Amiga - ACID500 with skidkick vrom [skid30](https://github.com/nitrologic/skid30)
 
