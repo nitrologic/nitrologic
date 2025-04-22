@@ -2,7 +2,7 @@
 
 ### Recent achievements
 
-* nitrologic foundry a research tool for manipulating models [foundry](https://github.com/nitrologic/foundry) 
+* nitrologic roha foundry forge a research tool for manipulating models [foundry](https://github.com/nitrologic/forge) 
 
 * Synth Vicious web worker [vsynth](https://github.com/nitrologic/vsynth)
 
