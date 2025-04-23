@@ -2,7 +2,7 @@
 
 ### Recent endeavours
 
-* nitrologic Forge RC3 - a research tool for manipulating models [forge](https://github.com/nitrologic/forge) 
+* nitrologic Forge [RC3](https://github.com/nitrologic/forge/releases/tag/rc3) - a research tool for manipulating models [forge](https://github.com/nitrologic/forge) 
 
 * Synth Vicious audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
