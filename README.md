@@ -2,13 +2,13 @@
 
 ### Recent endeavours
 
-* nitrologic Forge [RC3](https://github.com/nitrologic/forge/releases/tag/rc3) - a research tool for manipulating models [forge](https://github.com/nitrologic/forge) 
+* nitrologic roha foundry forge - research tool for manipulating models [forge](https://github.com/nitrologic/forge) 
 
-* Synth Vicious audio web worker [vsynth](https://github.com/nitrologic/vsynth)
+* Synth Vicious - audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
-* A headless virtual Amiga - ACID500 with skidkick vrom [skid30](https://github.com/nitrologic/skid30)
+* ACID500 - headless virtual Amiga with skidkick vrom [skid30](https://github.com/nitrologic/skid30)
 
-* An archive of various Blitz user media [bbarchives](https://github.com/nitrologic/bbarchives)
+* An archive of various Blitz User media [bbarchives](https://github.com/nitrologic/bbarchives)
 
 * A native OpenGL SDL3 sandbox [plainview](https://github.com/nitrologic/plainview)
 
