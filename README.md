@@ -2,7 +2,7 @@
 
 ### Recent endeavours
 
-* nitrologic roha foundry forge - research tool for manipulating models [forge](https://github.com/nitrologic/forge) 
+* nitrologic roha foundry forge slop fountain - research tool [fountain](https://github.com/nitrologic/fountain) 
 
 * Synth Vicious - audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
