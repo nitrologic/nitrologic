@@ -2,7 +2,9 @@
 
 ### Recent endeavours
 
-* nitrologic roha foundry forge slop fountain - research tool [fountain](https://github.com/nitrologic/fountain) 
+* bibli - unicode blocks of interest - [biblispec](https://github.com/nitrologic/biblispec)
+
+* slop fountain - AI research tool [fountain](https://github.com/nitrologic/fountain) 
 
 * Synth Vicious - audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
