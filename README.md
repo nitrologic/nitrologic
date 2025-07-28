@@ -26,7 +26,8 @@ I dream of big dollar documentation.
 
 https://nitrologic.itch.io/
 
-https://www.linkedin.com/in/nitrologic/
+https://nitrologic.github.io/
 
+https://www.linkedin.com/in/nitrologic/
 
 Music is music -- Miles Davis
