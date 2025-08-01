@@ -2,6 +2,8 @@
 
 ### Recent endeavours
 
+* R3000 emulator - a CPU javascript worker
+
 * bibli spec - language and unicode blocks of interest - [biblispec](https://github.com/nitrologic/biblispec)
 
 * slop fountain - AI research tool [fountain](https://github.com/nitrologic/fountain) 
