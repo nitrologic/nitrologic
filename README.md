@@ -2,7 +2,7 @@
 
 ### Recent endeavours
 
-* R3000 emulator - a CPU javascript worker
+* R3000 emulator fountain test - a work in progress R3000 CPU javascript worker - [test6-r3000](https://github.com/nitrologic/fountain/blob/main/slop/test6-r3000.slop.js)
 
 * bibli spec - language and unicode blocks of interest - [biblispec](https://github.com/nitrologic/biblispec)
 
