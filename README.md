@@ -11,7 +11,7 @@
 * Synth Vicious - audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
 
-### PreRecent endeavours
+### Less recent endeavours
 
 * ACID500 - headless virtual Amiga with skidkick vrom [skid30](https://github.com/nitrologic/skid30)
 
