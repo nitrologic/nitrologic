@@ -6,7 +6,7 @@
 
 * bibli spec - language and unicode blocks and music scales of interest - [biblispec](https://github.com/nitrologic/biblispec)
 
-* slop fountain - AI research tool [Fountain 𝟭.𝟯.𝟳 ⛲](https://github.com/nitrologic/fountain) 
+* slop fountain - AI research tool [Fountain 1.4.0 ⛲](https://github.com/nitrologic/fountain) 
 
 * Synth Vicious - audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
