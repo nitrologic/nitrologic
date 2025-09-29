@@ -31,7 +31,7 @@ I dream of big dollar documentation.
 
 https://nitrologic.itch.io/
 
-https://nitrologic.github.io/
+https://github.com/nitrologic/nitrologic.github.io
 
 https://www.linkedin.com/in/nitrologic/
 
