@@ -2,6 +2,8 @@
 
 ### Recent endeavours
 
+* [skid.nz](https://skid.nz/dsptool.html) - an AWS Auckand EC2 instance hosting dsptool lab stack - https://github.com/nitrologic/nitrologic.github.io/blob/main/README.md
+
 * R3000 emulator - a work in progress javascript worker - [test6-r3000](https://github.com/nitrologic/fountain/blob/main/slop/test6-r3000.slop.js)
 
 * bibli spec - language and unicode blocks and music scales of interest - [biblispec](https://github.com/nitrologic/biblispec)
@@ -30,8 +32,6 @@ I dream of big dollar documentation.
 ## About Me
 
 https://nitrologic.itch.io/
-
-https://github.com/nitrologic/nitrologic.github.io/blob/main/README.md
 
 https://www.linkedin.com/in/nitrologic/
 
