@@ -2,7 +2,7 @@
 
 ### Recent endeavours
 
-* [skid.nz](https://skid.nz/dsptool.html) - on brand new [AP-SOUTHEAST-6 AWS region](https://github.com/nitrologic/nitrologic.github.io/blob/main/README.md)
+* [skid.nz](https://skid.nz/dsptool.html) - some lab software soon to be career showcase on brand new [AP-SOUTHEAST-6 AWS EC2 region](https://github.com/nitrologic/nitrologic.github.io/blob/main/README.md)
 
 * R3000 emulator - a work in progress javascript worker - [test6-r3000](https://github.com/nitrologic/fountain/blob/main/slop/test6-r3000.slop.js)
 
