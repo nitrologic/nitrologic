@@ -4,7 +4,7 @@
 
 * [skid.nz](https://skid.nz/dsptool.html) - lab stack showcase, audio, geo, video, acid32
 
-* celebrating new [AP-SOUTHEAST-6 AWS EC2 region](https://github.com/nitrologic/nitrologic.github.io/blob/main/README.md)
+* celebrating new [AP-SOUTHEAST-6 AWS EC2 region](https://nitrologic.github.io/awszone6)
 
 * R3000 emulator - a work in progress javascript worker - [test6-r3000](https://github.com/nitrologic/fountain/blob/main/slop/test6-r3000.slop.js)
 
