@@ -1,8 +1,10 @@
 ## Welcome to nitrologic
 
-![skidwin](skidwin1.jpg)
+![skidwin](skidrender1.jpg)
 
 ### Recent endeavours
+
+* [vintage kid](https://nitrologic.github.io/vintagekid) - retro TTL electronics project voiding the software apocalypse
 
 * [skid.nz](https://skid.nz/dsptool.html) - lab stack showcase, audio, geo, video, acid32
 
