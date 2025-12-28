@@ -4,6 +4,8 @@
 
 ### Recent endeavours
 
+* [biblispec](https://github.com/nitrologic/biblispec) - language and unicode blocks and music scales of interest
+
 * [vintage kid](https://nitrologic.github.io/vintagekid) - retro TTL electronics project voiding the software apocalypse
 
 * [skid.nz](https://skid.nz/dsptool.html) - lab stack showcase, audio, geo, video, acid32
@@ -11,8 +13,6 @@
 * celebrating new [AP-SOUTHEAST-6 AWS EC2 region](https://nitrologic.github.io/apacsezone6)
 
 * R3000 emulator - a work in progress javascript worker - [test6-r3000](https://github.com/nitrologic/fountain/blob/main/slop/test6-r3000.slop.js)
-
-* bibli spec - language and unicode blocks and music scales of interest - [biblispec](https://github.com/nitrologic/biblispec)
 
 * slop fountain - AI research tool [Fountain 1.4.0 ⛲](https://github.com/nitrologic/fountain) 
 
