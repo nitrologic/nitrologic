@@ -4,7 +4,7 @@
 
 ### Recent endeavours
 
-* Forge Relay - AI research tool [Relay 1.8.2 ⛲](https://github.com/nitrologic/relay) 
+* nitrologic Relay - an AI research tool [Relay 1.8.2 ⛲](https://github.com/nitrologic/relay) 
 
 * [biblispec](https://github.com/nitrologic/biblispec) - language and unicode blocks and music scales of interest
 
