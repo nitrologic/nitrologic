@@ -4,18 +4,35 @@
 
 ### Recent endeavours
 
+* vidbit - a 4:3 PAL signal generator [my hackaday](https://hackaday.io/nitrologic)
+
 * nitrologic Relay - an AI research tool [Relay 1.8.2 ⛲](https://github.com/nitrologic/relay) 
 
 * [biblispec](https://github.com/nitrologic/biblispec) - language and unicode blocks and music scales of interest
-
-* [vintage kid](https://nitrologic.github.io/vintagekid) - retro TTL electronics project voiding the software apocalypse
 
 * [ali.skid.nz](https://ali.skid.nz/dsptool.html) - lab stack showcase, audio, geo, video, acid32
 
 * Synth Vicious - audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
+### Thoughts
+
+I dream of big dollar documentation.
+
+## About Me
+
+https://www.linkedin.com/in/nitrologic/
+
+https://hackaday.io/nitrologic
+
+https://nitrologic.itch.io/
+
+https://github.com/nitrologic
+
+Music is music -- Miles Davis
 
 ### Less recent endeavours
+
+* [vintage kid](https://nitrologic.github.io/vintagekid) - retro TTL electronics project voiding the software apocalypse
 
 * celebrating new [AP-SOUTHEAST-6 AWS EC2 region](https://nitrologic.github.io/apacsezone6)
 
@@ -30,15 +47,3 @@
 * A factory fixture test application for local electronics heavyweights (proprietary)
 
 * A geo tile bakery, server and client experiment  [roagrid](https://github.com/nitrologic/roagrid)
-
-### Thoughts
-
-I dream of big dollar documentation.
-
-## About Me
-
-https://nitrologic.itch.io/
-
-https://www.linkedin.com/in/nitrologic/
-
-Music is music -- Miles Davis
