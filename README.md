@@ -10,7 +10,7 @@
 
 * [vintage kid](https://nitrologic.github.io/vintagekid) - retro TTL electronics project voiding the software apocalypse
 
-* [skid.nz](https://skid.nz/dsptool.html) - lab stack showcase, audio, geo, video, acid32
+* [ali.skid.nz](https://ali.skid.nz/dsptool.html) - lab stack showcase, audio, geo, video, acid32
 
 * celebrating new [AP-SOUTHEAST-6 AWS EC2 region](https://nitrologic.github.io/apacsezone6)
 
