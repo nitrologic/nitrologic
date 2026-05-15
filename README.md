@@ -12,14 +12,14 @@
 
 * [ali.skid.nz](https://ali.skid.nz/dsptool.html) - lab stack showcase, audio, geo, video, acid32
 
-* celebrating new [AP-SOUTHEAST-6 AWS EC2 region](https://nitrologic.github.io/apacsezone6)
-
-* R3000 emulator - a work in progress javascript worker - [test6-r3000](https://github.com/nitrologic/fountain/blob/main/slop/test6-r3000.slop.js)
-
 * Synth Vicious - audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
 
 ### Less recent endeavours
+
+* celebrating new [AP-SOUTHEAST-6 AWS EC2 region](https://nitrologic.github.io/apacsezone6)
+
+* R3000 emulator - a work in progress javascript worker - [test6-r3000](https://github.com/nitrologic/fountain/blob/main/slop/test6-r3000.slop.js)
 
 * ACID500 - headless virtual Amiga with skidkick vrom [skid30](https://github.com/nitrologic/skid30)
 
