@@ -4,7 +4,7 @@
 
 ### Recent endeavours
 
-* vidbit - a 4:3 PAL signal generator [my hackaday](https://hackaday.io/nitrologic)
+* vidbit - a 4:3 PAL signal generator [my hackaday](https://hackaday.io/nitrologic) [vidbit](https://github.com/nitrologic/vidbit)
 
 * nitrologic Relay - an AI research tool [Relay 1.8.2 ⛲](https://github.com/nitrologic/relay) 
 
