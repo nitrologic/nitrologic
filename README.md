@@ -4,6 +4,8 @@
 
 ### Recent endeavours
 
+* machine - emulation of a 6502 youth [nitrologic pages](https://nitrologic.github.io)
+
 * bitgrid - width height layers of single bit pixels [bitgrid](https://github.com/nitrologic/bitgrid)
 
 * vidbit - a 4:3 PAL signal generator [my hackaday](https://hackaday.io/nitrologic) [vidbit](https://github.com/nitrologic/vidbit)
