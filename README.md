@@ -14,8 +14,6 @@
 
 * [biblispec](https://github.com/nitrologic/biblispec) - language and unicode blocks and music scales of interest
 
-* [ali.skid.nz](https://ali.skid.nz/dsptool.html) - lab stack showcase, audio, geo, video, acid32
-
 * Synth Vicious - audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
 ### Thoughts
