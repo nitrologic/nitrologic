@@ -4,15 +4,15 @@
 
 ### Recent endeavours
 
-* machine - emulation of a 6502 youth [nitrologic pages](https://nitrologic.github.io)
+* [biblispec](https://github.com/nitrologic/biblispec) - language and unicode blocks and music scales of interest
 
 * bitgrid - width height layers of single bit pixels [bitgrid](https://github.com/nitrologic/bitgrid)
+
+* machine - emulation of a 6502 youth [nitrologic pages](https://nitrologic.github.io)
 
 * vidbit - a 4:3 PAL signal generator [my hackaday](https://hackaday.io/nitrologic) [vidbit](https://github.com/nitrologic/vidbit)
 
 * nitrologic Relay - an AI research tool [Relay 1.8.2 ⛲](https://github.com/nitrologic/relay) 
-
-* [biblispec](https://github.com/nitrologic/biblispec) - language and unicode blocks and music scales of interest
 
 * Synth Vicious - audio web worker [vsynth](https://github.com/nitrologic/vsynth)
 
